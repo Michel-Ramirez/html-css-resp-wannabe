@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) {
+    .container, .steps {
+      width: 550px;
+    }
+
+    .steps {
+        background-size: 100%;
+    }
+
+
+}
