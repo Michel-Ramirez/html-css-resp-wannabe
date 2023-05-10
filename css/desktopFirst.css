@@ -1,5 +1,5 @@
 @media screen and (max-width: 768px) {
-    .container, .steps {
+    .container {
       width: 550px;
     }
 
